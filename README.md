@@ -30,5 +30,4 @@ HTML, CSS, and JavaScript that performs all basic arithmetic operations.
 
 
 
-1. **Clone the repository**
-```bash
+
